@@ -204,3 +204,5 @@ Credit:
 
 [techgaun](https://raw.githubusercontent.com/techgaun/github-dorks/master/github-dorks.txt)
 
+[shahjerry33](https://shahjerry33.medium.com/github-recon-its-really-deep-6553d6dfbb1f)
+
