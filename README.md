@@ -1,8 +1,4 @@
 # github-dorks
-my search for github 
-
-
-
 
 [Top 4 ways to scan GitHub repos for credentials](https://securitytrails.com/blog/github-dorks)
 
@@ -80,6 +76,8 @@ my search for github
 | filename:settings.py SECRET_KEY                 | Django secret keys (usually allows for session hijacking, RCE, etc)                         |
 
 
-https://securityonline.info/github-dorks/
-Credit: https://raw.githubusercontent.com/techgaun/github-dorks/master/github-dorks.txt
+
+Credit:
+[securityonline](https://securityonline.info/github-dorks/)
+[techgaun](https://raw.githubusercontent.com/techgaun/github-dorks/master/github-dorks.txt)
 
