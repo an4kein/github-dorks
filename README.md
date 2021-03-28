@@ -198,6 +198,8 @@ extension:json googleusercontent client_secret
 
 [truffleHog](https://github.com/dxa4481/truffleHog) // Searches through git repositories for secrets, digging deep into commit history and branches. This is effective at finding secrets accidentally committed.
 
+[Watchtower](https://radar.nightfall.ai/)
+
 Credit:
 
 [securityonline](https://securityonline.info/github-dorks/)
